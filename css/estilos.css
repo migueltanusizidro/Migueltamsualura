@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://lh3.googleusercontent.com/proxy/Br1EGxyY3W7iei-cdKUHBlakmpX9z77-4mhx1ljcuhohc5fTsVZqGRzmlpduS5a8tu6mXtoCCl01sAMJkNOK7rvLg7XXYdO17ESVaLWMPLYfAhb1WmTYfnwN4wU7uIVOw35IH9k);
+    background-size:1500px}
+  .menu li{
+    list-style:none;}
+  .menu ul {
+    display:flex;
+    justify-content:space-around;
+    background-image:url(https://lh3.googleusercontent.com/proxy/Br1EGxyY3W7iei-cdKUHBlakmpX9z77-4mhx1ljcuhohc5fTsVZqGRzmlpduS5a8tu6mXtoCCl01sAMJkNOK7rvLg7XXYdO17ESVaLWMPLYfAhb1WmTYfnwN4wU7uIVOw35IH9k);
+}
+    
+  a{
+    text-decoration:none;
+    color:violet;}
+  a:hover{
+    text-decoration:underline;
+    color:cyan;}
+  .site-title{
+    text-align:center;
+    font-family:Algerian;
+    color:yellow;}
+  .site-subtitle{
+    text-align:center;
+    color:coral;
+    font-family:MV Boli;}
